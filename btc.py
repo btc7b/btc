@@ -6,4 +6,4 @@ print("btc=",btc)
 x = 35.4
 print("x=",x)
 num = [1.3, 3.3]
-
+print("num=",num)
