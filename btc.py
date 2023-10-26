@@ -1,5 +1,5 @@
 #first file 
-printf("first test");
+print("first test");
 #numbers
 btc = 34627.6
 num = [1.3, 3.3] 
