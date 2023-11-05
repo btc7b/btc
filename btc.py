@@ -4,6 +4,6 @@ print("testing python");
 btc = 34627.6
 print("btc=",btc)
 eth = 1883
-print("x=",x)
+print("eth=",x)
 vec = [1.31, 3.31]
 print("vec=",vec)
