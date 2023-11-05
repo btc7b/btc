@@ -1,5 +1,5 @@
 #first file 
-print("first test");
+print("testing python");
 #numbers
 btc = 34627.6
 print("btc=",btc)
