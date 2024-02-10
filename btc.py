@@ -1,7 +1,8 @@
 #first file 
 print("testing python");
 #numbers
-btc = 34627.6
+btc = 34627
+btc2 = 47151
 print("btc=",btc)
 eth = 1883
 print("eth=",eth)
