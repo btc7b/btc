@@ -3,6 +3,7 @@ print("testing python");
 #numbers
 btc1 = 34627
 btc2 = 47151
+btc3 = 52061
 print("btc=",btc1)
 eth = 1883
 print("eth=",eth)
