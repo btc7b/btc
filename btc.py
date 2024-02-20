@@ -9,4 +9,5 @@ eth = 1883
 print("eth=",eth)
 vec = [1.31, 3.31]
 print("vec=",vec)
-complex = (btc, eth)
+cx = (btc, eth)
+
